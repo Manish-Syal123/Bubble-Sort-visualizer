@@ -6,7 +6,7 @@
     justify-content: center;
 }
 
-.startbtn{
+.startbtn{ 
     display: flex;
     border: 2px solid;
     background-color: rgb(107, 11, 196);
