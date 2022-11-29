@@ -27,7 +27,7 @@ async function myFunction(arr){
 
         for(let j=0; j< (arr.length - i - 1); j++){
 
-            await sleep(500);
+            await sleep(400);
 
             if(arr[j] > arr[j+1]){
                 // swap the number
