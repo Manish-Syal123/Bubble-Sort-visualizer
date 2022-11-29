@@ -1,4 +1,4 @@
 # Bubble-Sort-visualizer
-- I am facing issue with bars as bars are 
-not appearing inside div .
-- Anyone can generates PR. 
+- Looks cool ❤️ isn't it ? ✌
+
+![image](https://user-images.githubusercontent.com/112818612/204564924-816146d7-0a3a-495a-b984-44bb4089b2ff.png)
